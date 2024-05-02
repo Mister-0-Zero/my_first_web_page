@@ -1,0 +1,42 @@
+#page_header {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: #201d1d;
+    color: #fff;
+    border-bottom: 4px solid #8c5427;
+}
+
+#rect {
+    width: 100%;
+    height: 74px;
+    background-color:#201d1d;
+}
+.tab_of_con {
+    text-align: center;
+}
+
+.tab_of_con a {
+    display: block;
+    float:left;
+    width: 19.66%;
+    
+    line-height: 72px;
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: #fff;
+    
+    border-bottom: 4px solid #8c5427;
+}
+
+.tab_of_con a:hover {
+    color: #4015a6;
+    touch-action: pan-x;
+    text-decoration: underline;
+}
+nav, h4 {
+    margin: 0;
+}
+
